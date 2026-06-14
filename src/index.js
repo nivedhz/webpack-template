@@ -1,3 +1,1 @@
-import "./styles/index.css";
-
-console.log("index");
+console.log("hello, world");
